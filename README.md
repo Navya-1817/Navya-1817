@@ -19,8 +19,3 @@ Hi, I am Navya!
   
 ## Experience 
  - Was a summer fellow at FOSSEE, IIT Bombay for OpenFOAM GUI, during which I developed a node editor for creating OpenFOAM case files.
- 
-
-<h1 align="left">GitHub Statistics</h1>
-
-[![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=navya-1817)](https://github.com/anuraghazra/github-readme-stats)
