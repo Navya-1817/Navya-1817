@@ -10,7 +10,7 @@ You can find me here :
 
 ## About Me
 Hi, I am Navya!
-- 🔮 I am a third year Computer Science undergrad.
+- 🔮 I am a final year Computer Science undergrad.
 - 📍 based in India
 - 🍵 mentee at Codess.Cafe 
 - 👩‍💻 I find my interests in Problem Solving(even though it makes me pull my hair out 8 out of 10 times) and Open Source(ahh! the happiness when my code is merged)
@@ -19,3 +19,4 @@ Hi, I am Navya!
   
 ## Experience 
  - Was a summer fellow at FOSSEE, IIT Bombay for OpenFOAM GUI, during which I developed a node editor for creating OpenFOAM case files.
+ - ☀️Google Summer of Code contributor to KDE
